@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mohiuddin — a passionate developer who loves building clean, functional, and user-friendly applications. I'm constantly exploring new technologies and working on projects that challenge and grow my skills.<br><br>💻 I work mainly with React, Node, Express, Redux, MongoDB, PostreSQL, Docker<br><br>🚀 Currently learning  golang<br><br>🛠️ Always open to collaboration and new ideas<br><br>🌱 I believe in writing readable code and continuously improving<br><br>Let's connect and build something great!<br><br>
+Hi, I'm Mohiuddin — a passionate developer who loves building clean, functional, and user-friendly applications. I'm constantly exploring new technologies and working on projects that challenge and grow my skills.<br><br>💻 I work mainly with React, Node, Express, Redux, firebase, MongoDB, PostreSQL, Docker, GCP<br><br>🚀 Currently learning  golang<br><br>🛠️ Always open to collaboration and new ideas<br><br>🌱 I believe in writing readable code and continuously improving<br><br>Let's connect and build something great!<br><br>
 
 
 ## 🌐 Socials:
